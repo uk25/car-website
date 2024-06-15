@@ -1,0 +1,188 @@
+
+
+.cars{
+    background-color:black ;
+    width: 100%;
+    height: 700px;
+}
+
+.audi{
+    width: 800px;
+    height: 550px;
+    float: right;
+    margin-top: 100px;
+}
+
+.bmw{
+font-size: 30px;
+color:#FF8C00 ;
+font-family: 'Segoe UI';
+padding-left: 70px;
+padding-top: 50px;
+}
+
+.lamberghini{
+    font-size: 70px;
+    color: floralwhite;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    padding-top: 40px;
+    padding-left: 70px;
+}
+
+.amplifier{
+    font-size: 30px;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 50px;
+    padding-left: 70px;
+}
+
+.ferrari{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: #FF8C00 solid 5px;
+    width: 500px;
+    margin-left: 500px;
+}
+
+.rolls{
+margin-left:100px ;
+width: 550px;
+margin-top: 30px;
+}
+
+.royce{
+float: right;
+height: 450px;
+margin-right: 100px;
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:#BCBCBC ;
+margin-top: 50px;
+}
+
+.boat{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 400px;
+    width: 100%;
+}
+
+.sportscar{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+form{
+    float: right;
+    line-height: 2;
+    margin-right: 70px;
+}
+
+label{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma Verdana, sans-serif;
+}
+
+#bugatti{
+    width: 500px;height: 50px;
+    background-color: #BCBCBC;
+    border-radius: 200px;
+}
+
+#mclaren{
+    width: 500px;
+    height: 50px;
+    background-color: #BCBCBC;
+    border-radius: 200px;
+}
+
+#lotusevijua{
+width: 500px;
+height: 300px;
+background-color: #BCBCBC;
+border-radius: 50px;
+}
+
+.mercedes{
+    background-color: #FF8C00;
+    border-radius: 500px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.special{
+    width:700px ;
+    height:600px ;
+    margin-left: 70px;
+}
+
+.success{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #BCBCBC;
+    width: 420px;
+    height: 400px;
+    margin-left: 50px;
+    }
+
+    a{
+        text-decoration: none;
+        background-color: #FF8C00;
+        color: black;float: right;
+        margin-top: -75px;
+    margin-right: 20px;
+    }
+    
+
+.jeep{
+    padding-left: 33px;
+    padding-top: 20px;
+}
+
+
+
+.hard{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #BCBCBC;
+    width: 420px;
+    height: 400px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 50px;
+}
+
+.work{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #BCBCBC;
+    width: 420px;
+    height: 400px;
+    margin-top: -400px;
+    padding-left: 5px;
+}
+
+.main{
+    padding-left: 33px;
+    padding-top: 20px;
+}
+
+
+
+.umme{
+    padding-left: 33px;
+    padding-top: 20px;
+}
+
+.error{
+    float: left;
+    margin-top: -130px;
+}
